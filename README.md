@@ -1,28 +1,71 @@
-<h1>🌟 Shyam's GitHub Profile 🌟</h1>
+# 👋 Hi there, I'm Shyam! 
 
-<h2>🚀 Overview</h2>
-<p>Hi there! I'm Shyam, a B.Tech student in Computer Science Engineering at ACE Engineering College. I’m passionate about coding and enjoy creating innovative projects! 💻✨</p>
+I'm a passionate Computer Science Engineering student currently in my final year at ACE Engineering College. I love solving real-world problems through code and continuously upgrading myself in the world of software and AI.
 
-<h2>💡 Skills</h2>
-<ul>
-    <li><strong>Languages:</strong> C++, Java, Python, JavaScript (in progress)</li>
-    <li><strong>Web Development:</strong> HTML, CSS, Node.js (familiar), React (familiar)</li>
-    <li><strong>Database:</strong> MySQL, MongoDB (familiar)</li>
-    <li><strong>Tools:</strong> Git & GitHub, Visual Studio Code, MinGW, JDK 21</li>
-    <li><strong>Practices:</strong> Data Structures & Algorithms, Version Control</li>
-</ul>
+---
 
-<h2>🎯 Goals</h2>
-<ul>
-    <li>Enhance skills in full-stack development (React, Node.js).</li>
-    <li>Participate in coding competitions and hackathons.</li>
-    <li>Prepare for internships in the tech industry.</li>
-</ul>
+## 🧠 About Me
+- 🎓 B.Tech in Computer Science (ACE Engineering College, 2025)
+- 💻 MERN Stack Developer | DSA Enthusiast
+- 🚀 Currently diving deep into AI/ML, LLMs, and Agentic Automation
+- 🌱 I believe in continuous learning and building to grow
 
-<h2>📬 Contact</h2>
-<p>Feel free to reach out for collaborations or inquiries! 🤝💬</p>
-<ul>
-    <li><strong>📧 Email:</strong> your.email@example.com</li>
-    <li><strong>🔗 LinkedIn:</strong> <a href="Your LinkedIn Profile">Your LinkedIn Profile</a></li>
-    <li><strong>🐱‍💻 GitHub:</strong> <a href="Your GitHub Profile">Your GitHub Profile</a></li>
-</ul>
+---
+
+## 💡 Tech Skills
+
+### ✅ Languages & Core CS
+- C, C++, Java, Python
+- Data Structures & Algorithms
+- OOPs, DBMS, OS Basics
+
+### ✅ Web Development (MERN)
+- MongoDB, Express.js, React.js, Node.js
+- RESTful APIs, JWT Auth, Redux
+- HTML, CSS, Tailwind, JavaScript
+
+### 🚀 Currently Learning
+- Machine Learning with Scikit-learn, Pandas
+- Deep Learning with TensorFlow & PyTorch
+- LangChain & GPT (LLMs, RAG, Agent Workflows)
+- Model Deployment with Flask, Streamlit, and Cloud (AWS/GCP)
+
+---
+
+## 🛠️ Projects
+
+### 🔷 Personal Portfolio (React + Tailwind)
+A responsive web portfolio to showcase my resume, projects, and certifications.
+
+### 🔷 AI-Powered Resume Recommender (In Progress)
+Uses GPT + LangChain to review resumes and suggest tailored improvements based on job descriptions.
+
+### 🔷 Task Manager App
+MERN stack-based task tracker with authentication, role-based access, and a minimal UI.
+
+---
+
+## 📜 Certifications
+
+- ✅ Python Essentials – Cisco NetAcad
+- ✅ Pearson MePro English – Level 10
+---
+
+## 🎯 Aspirations
+
+I aspire to become:
+- 🔬 An **AI Engineer** — building intelligent systems using LLMs, ML, and agent-based tools
+- ☁️ A **Cloud + AI Developer** — deploying scalable AI services in the cloud
+- 👨‍🏫 A **Mentor & Contributor** — helping others while growing in open source and research
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/) *(update this with your profile)*
+- 💼 Portfolio Website: *Coming soon*
+- 📧 Email: your.email@example.com
+
+---
+
+Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you'd like to collaborate or connect 🤝
