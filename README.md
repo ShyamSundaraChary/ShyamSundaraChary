@@ -121,14 +121,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="35"> **Coding Activity**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShyamSundaraChary&theme=tokyonight" />
-</div>
-
----
-
 ## 🏆 **Achievements & Certifications**
 
 <div align="center">
