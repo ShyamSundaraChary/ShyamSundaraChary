@@ -124,7 +124,7 @@
 ## <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="35"> **Coding Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShyamSundaraChary&theme=tokyonight" />
 </div>
 
 ---
@@ -132,7 +132,7 @@
 ## 🏆 **Achievements & Certifications**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShyamSundaraChary&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 🎯 **Certifications:**
@@ -140,14 +140,6 @@
 - ✅ **Pearson MePro English** - Level 10
 - 🎯 **AWS Cloud Practitioner** *(In Progress)*
 - 🎯 **TensorFlow Developer Certificate** *(In Progress)*
-
----
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> **Future Aspirations**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Cloud+Developer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9;Lifelong+Learner+%F0%9F%93%9A" />
-</div>
 
 ---
 
