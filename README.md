@@ -100,7 +100,7 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🤖 **AI Resume Recommender** | Smart resume analysis using GPT & LangChain | `Python` `LangChain` `OpenAI` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername/project) |
+| 🤖 **AI Resume Recommender** | Smart resume analysis using GPT & LangChain | `Python` `LangChain` `OpenAI` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ShyamSundaraChary/project) |
 | 💼 **Portfolio Website** | Responsive personal portfolio | `React` `Tailwind` `Framer Motion` | [![Live](https://img.shields.io/badge/Live-00C851?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com) |
 | 📝 **Task Manager Pro** | Full-stack task management with auth | `MERN Stack` `JWT` `Redux` | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername/project) |
 
