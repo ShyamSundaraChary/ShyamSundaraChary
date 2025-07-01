@@ -4,18 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Computer+Science+Engineering+Student;MERN+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver+%26+Code+Craftsman" alt="Typing SVG"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=0891b2&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full%20Stack-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Tamil%20Nadu%2C%20India-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
-</div>
+
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+  <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+
+<br>
 
 - 🎓 **Final Year** B.Tech CSE at ACE Engineering College
 - 🔭 Currently working on **AI-Powered Resume Recommender**
@@ -28,12 +27,42 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Stack**
 
+### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,redis" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,postman" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,vercel" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+### **Frontend Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### **Backend Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### **Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+### **AI/ML & Data Science**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### **Tools & Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+</p>
+
+### **Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx" />
 </p>
 
 ### **🚀 What I'm Currently Learning:**
@@ -84,10 +113,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
