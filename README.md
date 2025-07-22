@@ -1,8 +1,12 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Shyam
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&multicolor=true&center=true&vCenter=true&width=1000&lines=Final-Year+CSE+Student+at+ACE+Engineering+College;AI+%26+ML+Innovator;MERN+Stack+Wizard;Problem-Solving+Ninja" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Goldman&weight=700&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Final+Year+CSE+Student;AI+%26+ML+Enthusiast;MERN+Stack+Developer;Problem+Solver+%7C+Code+Craftsman" 
+    alt="Typing SVG" 
+  />
+</p>
+
 
 
 
@@ -19,12 +23,21 @@
 
 <br>
 
-- 🎓 **Final Year** B.Tech CSE at ACE Engineering College
-- 🔭 Currently working on **AI-Powered Resume Recommender**
-- 🌱 Learning **Deep Learning, LLMs & Cloud Deployment**
-- 👯 Looking to collaborate on **Open Source AI Projects**
-- 💬 Ask me about **React, Node.js, Python, Machine Learning**
-- ⚡ Fun fact: **I think in algorithms and dream in code!**
+🎓 &nbsp;**Final Year** B.Tech CSE student at **ACE Engineering College**, Hyderabad  
+🔭 &nbsp;Working on an **AI-Powered Resume Recommender** using GPT & LangChain  
+🌱 &nbsp;Currently diving into **Deep Learning**, **LLMs**, and **Cloud Deployment**  
+🤝 &nbsp;Open to collaborating on **Open Source AI Projects**  
+💬 &nbsp;Ask me about: **React**, **Node.js**, **Python**, **Machine Learning**  
+⚡ &nbsp;**Fun fact**: *I think in algorithms and dream in code!*
+
+<br>
+
+<p align="center">
+  <a href="https://portfolio-shyam-sundara-chary.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
