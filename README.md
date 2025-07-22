@@ -1,8 +1,9 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Shyam
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Computer+Science+Engineering+Student;MERN+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver+%26+Code+Craftsman" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&multicolor=true&center=true&vCenter=true&width=1000&lines=Final-Year+CSE+Student+at+ACE+Engineering+College;AI+%26+ML+Innovator;MERN+Stack+Wizard;Problem-Solving+Ninja" alt="Typing SVG" />
 </div>
+
 
 
 
@@ -10,9 +11,11 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
 
+
 <div align="center">
-  <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
+
 
 <br>
 
